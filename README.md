@@ -1,2 +1,2 @@
 # spotifyplayground
-Playground for playing with the Spotify API
+Playground for the Spotify API
